@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gabriel Delhay
 
-<!--
-**GabrielDelhay/GabrielDelhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Double degree student ·
+MSc Mathematical Engineering - Quantitative Finance @ Politecnico di Milano  
+MSc in Engineering with specialization in Applied Mathematics @ Centrale Nantes
 
-Here are some ideas to get you started:
+Interested in **derivatives pricing**, **stochastic modelling**, and **numerical methods**.  
+Currently looking for a **quantitative finance internship**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+**Languages** — Python · MATLAB · C++ · R
+
+**Topics** — Option pricing · Interest rate derivatives · Monte Carlo methods · Binomial trees · Greeks · Yield curve construction
+
+---
+
+[delhay.gabriel@gmail.com](mailto:delhay.gabriel@gmail.com)
