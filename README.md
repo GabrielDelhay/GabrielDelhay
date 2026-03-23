@@ -1,4 +1,4 @@
-# Gabriel Delhay
+## Education
 
 Double degree student ·
 MSc Mathematical Engineering - Quantitative Finance @ Politecnico di Milano  
