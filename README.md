@@ -13,8 +13,7 @@ Currently looking for a **quantitative finance internship**.
 
 **Languages** — Python · MATLAB · C++ · R
 
-**Topics** — Option pricing · Interest rate derivatives · Monte Carlo methods · Binomial trees · Greeks · Yield curve construction
-
+**Topics** — Option pricing · Interest rate derivatives · Monte Carlo methods · Structured products · Risk management 
 ---
 
 [delhay.gabriel@gmail.com](mailto:delhay.gabriel@gmail.com)
