@@ -1,6 +1,6 @@
 ## Education
 
-Double degree student ·
+**Double degree student**
 MSc Mathematical Engineering - Quantitative Finance @ Politecnico di Milano  
 MSc in Engineering with specialization in Applied Mathematics @ Centrale Nantes
 
@@ -13,7 +13,8 @@ Currently looking for a **quantitative finance internship**.
 
 **Languages** — Python · MATLAB · C++ · R
 
-**Topics** — Option pricing · Interest rate derivatives · Monte Carlo methods · Structured products · Risk management 
+**Topics** - Option pricing · Interest rate derivatives · Monte Carlo methods · Structured products · Risk management
+
 ---
 
 [delhay.gabriel@gmail.com](mailto:delhay.gabriel@gmail.com)
