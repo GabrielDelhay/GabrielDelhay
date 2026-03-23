@@ -1,7 +1,6 @@
 ## Education
 
-**Double degree student**
-MSc Mathematical Engineering - Quantitative Finance @ Politecnico di Milano  
+**Double degree student** — MSc Mathematical Engineering - Quantitative Finance @ Politecnico di Milano  
 MSc in Engineering with specialization in Applied Mathematics @ Centrale Nantes
 
 Interested in **derivatives pricing**, **stochastic modelling**, and **numerical methods**.  
@@ -13,7 +12,7 @@ Currently looking for a **quantitative finance internship**.
 
 **Languages** — Python · MATLAB · C++ · R
 
-**Topics** - Option pricing · Interest rate derivatives · Monte Carlo methods · Structured products · Risk management
+**Topics** — Option pricing · Interest rate derivatives · Monte Carlo methods · Structured products · Risk management
 
 ---
 
