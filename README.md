@@ -3,17 +3,17 @@
 **Double degree student** — MSc Mathematical Engineering - Quantitative Finance @ Politecnico di Milano  
 MSc in Engineering with specialization in Applied Mathematics @ Centrale Nantes
 
-Interested in **statistical arbitrage**, **derivatives pricing**, **stochastic modelling**, and **numerical methods**.  
+Interested in **quantitative research**, **stochastic modelling**, and **numerical methods**.  
 Currently looking for a **quantitative finance internship**.
 
 ---
 
 ## Skills
 
-**Languages** — Python · MATLAB · C++ · R
+**Languages** — Python · MATLAB 
 
-**Topics** — Quantitative research · Derivatives pricing · Numerical methods · Structured products · Financial econometrics
+**Topics** — Statistical arbitrage · Systematic strategies · Derivatives pricing
 
 ---
 
-[delhay.gabriel@gmail.com](mailto:delhay.gabriel@gmail.com)
+[gabrieldelhay.pro@gmail.com](mailto:gabrieldelhay.pro@gmail.com)
